@@ -1,0 +1,2 @@
+SampleID   Population   Status   R1         R2
+EXAMPLE1   RegionA      resistant example_R1.fastq.gz example_R2.fastq.gz
